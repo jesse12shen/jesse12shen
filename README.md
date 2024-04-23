@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesse12shen
 - 👀 I’m interested in work involving data science, bioinformatics, and the natural sciences in general.
-- 🌱 I’m currently teaching myself pandas and SQL
+- 🌱 I’m currently teaching myself SQL
 - 📫 You can reach me at jesse12shen@gmail.com
 
 <!---
