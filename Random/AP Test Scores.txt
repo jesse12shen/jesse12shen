@@ -13,5 +13,5 @@ AP - Calculus BC	5	    07/05/2016
 AP - Physics C Ele	4	07/05/2016
 AP - Physics C Mech	4	07/05/2016
 AP - Politics US	4	  07/05/2016
-AP - Psychology		5	  07/05/2016
-AP - Statistics		4	  07/05/2016
+AP - Psychology		  5	  07/05/2016
+AP - Statistics		  4	  07/05/2016
