@@ -1,8 +1,8 @@
 
 Test Name	  Score	      Date
 AP - American History	5	07/05/2016
-AP - Biology	5	        07/05/2016
-AP - Chemistry	3	      07/05/2016
+AP - Biology	        5 07/05/2016
+AP - Chemistry	      3	07/05/2016
 AP - Computer Science A Test	4	07/05/2016
 AP - Economics Macro	4	 07/05/2016
 AP - Economics Micro	5	07/05/2016
