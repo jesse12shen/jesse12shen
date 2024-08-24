@@ -1,5 +1,5 @@
 
-Test Name	Score	Date
+Test Name	  Score	      Date
 AP - American History	5	07/05/2016
 AP - Biology	5	        07/05/2016
 AP - Chemistry	3	      07/05/2016
