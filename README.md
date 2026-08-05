@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesse12shen
-- 👀 I’m interested in work involving data science, bioinformatics, and the natural sciences in general.
-- 🌱 I’m currently teaching myself SQL
+- 👀 I’m interested in work involving data science, data engineering, and machine learning.
+- 🌱 I’m currently deploying my own web application.
 - 📫 You can reach me at jesse12shen@gmail.com
 
 <!---
