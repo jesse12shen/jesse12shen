@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesse12shen
 - 👀 I’m interested in work involving data science, data engineering, and machine learning.
-- 🌱 I’m currently deploying my own web application.
+- 🌱 I’m currently learning FastAPI and LangChain.
 - 📫 You can reach me at jesse12shen@gmail.com
 
 <!---
